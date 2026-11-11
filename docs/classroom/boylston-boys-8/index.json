@@ -80,7 +80,7 @@
    },
    "label": "2.1",
    "title": "Inbounds, Defense, and Late-Game Calls",
-   "desc": "The other nine calls: inbounds, presses, press breaks, and end of game.",
+   "desc": "The twelve calls outside the offense: inbounds, presses, press breaks, and end of game.",
    "archetype": "dictionary",
    "buildsOn": [
     "bb8-t01-m1-3"
@@ -147,7 +147,7 @@
    },
    "label": "3.2",
    "title": "Calls and Signals Checkpoint",
-   "desc": "One quiz across all eighteen calls.",
+   "desc": "One quiz across all twenty-one calls.",
    "archetype": "checkpoint",
    "buildsOn": [
     "bb8-t01-m2-1",
