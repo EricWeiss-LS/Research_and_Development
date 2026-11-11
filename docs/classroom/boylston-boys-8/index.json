@@ -133,29 +133,6 @@
    "time": "6"
   },
   {
-   "id": "bb8-t01-m3-2",
-   "file": "t01-m3-2-calls-and-signals-checkpoint.html",
-   "track": {
-    "id": "bb8-t01",
-    "n": "01",
-    "title": "Team Rules and Calls"
-   },
-   "module": {
-    "n": 3,
-    "name": "Applied",
-    "sub": "At game speed"
-   },
-   "label": "3.2",
-   "title": "Calls and Signals Checkpoint",
-   "desc": "One quiz across all twenty-one calls.",
-   "archetype": "checkpoint",
-   "buildsOn": [
-    "bb8-t01-m2-1",
-    "bb8-t01-m3-1"
-   ],
-   "time": "6"
-  },
-  {
    "id": "bb8-t02-m1-1",
    "file": "t02-m1-1-the-5-rules-of-cutters.html",
    "track": {
