@@ -1,0 +1,768 @@
+{
+ "schema": "classroom-pages/1",
+ "classroom": "Boylston Boys 8",
+ "accent": "#3B82F6",
+ "pages": [
+  {
+   "id": "bb8-t01-m1-1",
+   "file": "t01-m1-1-team-rules.html",
+   "track": {
+    "id": "bb8-t01",
+    "n": "01",
+    "title": "Team Rules and Calls"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "The language"
+   },
+   "label": "1.1",
+   "title": "Team Rules",
+   "desc": "Six rules we play by, every practice and every game.",
+   "archetype": "principles",
+   "buildsOn": [],
+   "time": "6"
+  },
+  {
+   "id": "bb8-t01-m1-2",
+   "file": "t01-m1-2-reading-the-diagrams.html",
+   "track": {
+    "id": "bb8-t01",
+    "n": "01",
+    "title": "Team Rules and Calls"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "The language"
+   },
+   "label": "1.2",
+   "title": "Reading the Diagrams",
+   "desc": "What every line and circle in our playbook means.",
+   "archetype": "dictionary",
+   "buildsOn": [],
+   "time": "6"
+  },
+  {
+   "id": "bb8-t01-m1-3",
+   "file": "t01-m1-3-offense-calls-and-signals.html",
+   "track": {
+    "id": "bb8-t01",
+    "n": "01",
+    "title": "Team Rules and Calls"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "The language"
+   },
+   "label": "1.3",
+   "title": "Offense Calls and Signals",
+   "desc": "Nine offense calls, the hand signal for each, and when we use it.",
+   "archetype": "dictionary",
+   "buildsOn": [
+    "bb8-t01-m1-1"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "bb8-t01-m2-1",
+   "file": "t01-m2-1-inbounds-defense-and-late-game-calls.html",
+   "track": {
+    "id": "bb8-t01",
+    "n": "01",
+    "title": "Team Rules and Calls"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "All the calls"
+   },
+   "label": "2.1",
+   "title": "Inbounds, Defense, and Late-Game Calls",
+   "desc": "The other nine calls: inbounds, presses, press breaks, and end of game.",
+   "archetype": "dictionary",
+   "buildsOn": [
+    "bb8-t01-m1-3"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "bb8-t01-m2-2",
+   "file": "t01-m2-2-talking-on-defense.html",
+   "track": {
+    "id": "bb8-t01",
+    "n": "01",
+    "title": "Team Rules and Calls"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "All the calls"
+   },
+   "label": "2.2",
+   "title": "Talking on Defense",
+   "desc": "What we say on defense, who says it, and when.",
+   "archetype": "principles",
+   "buildsOn": [
+    "bb8-t01-m1-1"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "bb8-t01-m3-1",
+   "file": "t01-m3-1-watch-the-point-guard-s-hand.html",
+   "track": {
+    "id": "bb8-t01",
+    "n": "01",
+    "title": "Team Rules and Calls"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "At game speed"
+   },
+   "label": "3.1",
+   "title": "Watch the Point Guard's Hand",
+   "desc": "Read the signal and know the play before the ball moves.",
+   "archetype": "decision",
+   "buildsOn": [
+    "bb8-t01-m1-3",
+    "bb8-t01-m2-1"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "bb8-t01-m3-2",
+   "file": "t01-m3-2-calls-and-signals-checkpoint.html",
+   "track": {
+    "id": "bb8-t01",
+    "n": "01",
+    "title": "Team Rules and Calls"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "At game speed"
+   },
+   "label": "3.2",
+   "title": "Calls and Signals Checkpoint",
+   "desc": "One quiz across all eighteen calls.",
+   "archetype": "checkpoint",
+   "buildsOn": [
+    "bb8-t01-m2-1",
+    "bb8-t01-m3-1"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "bb8-t02-m1-1",
+   "file": "t02-m1-1-the-5-rules-of-cutters.html",
+   "track": {
+    "id": "bb8-t02",
+    "n": "02",
+    "title": "5-Out Cutters Offense"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "The rules"
+   },
+   "label": "1.1",
+   "title": "The 5 Rules of Cutters",
+   "desc": "Most possessions we don't run a play. We follow these five rules.",
+   "archetype": "principles",
+   "buildsOn": [],
+   "time": "6"
+  },
+  {
+   "id": "bb8-t02-m1-2",
+   "file": "t02-m1-2-pass-cut-replace.html",
+   "track": {
+    "id": "bb8-t02",
+    "n": "02",
+    "title": "5-Out Cutters Offense"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "The rules"
+   },
+   "label": "1.2",
+   "title": "Pass, Cut, Replace",
+   "desc": "How every Cutters possession starts, against any man-to-man defense.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "bb8-t02-m1-1"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "bb8-t02-m1-3",
+   "file": "t02-m1-3-backdoor.html",
+   "track": {
+    "id": "bb8-t02",
+    "n": "02",
+    "title": "5-Out Cutters Offense"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "The rules"
+   },
+   "label": "1.3",
+   "title": "Backdoor",
+   "desc": "When your defender denies you, don't fight it. Cut behind it.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "bb8-t02-m1-2"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "bb8-t02-m2-1",
+   "file": "t02-m2-1-drive-and-kick.html",
+   "track": {
+    "id": "bb8-t02",
+    "n": "02",
+    "title": "5-Out Cutters Offense"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Core plays"
+   },
+   "label": "2.1",
+   "title": "Drive and Kick",
+   "desc": "Cutters opens the lane on purpose. Use it.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "bb8-t02-m1-1",
+    "bb8-t02-m1-2"
+   ],
+   "time": "7"
+  },
+  {
+   "id": "bb8-t02-m2-2",
+   "file": "t02-m2-2-superman.html",
+   "track": {
+    "id": "bb8-t02",
+    "n": "02",
+    "title": "5-Out Cutters Offense"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Core plays"
+   },
+   "label": "2.2",
+   "title": "Superman",
+   "desc": "Pick-and-pop for our shooter. Our best shot against tough man-to-man.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "bb8-t02-m1-1",
+    "bb8-t02-m2-1"
+   ],
+   "time": "8"
+  },
+  {
+   "id": "bb8-t02-m2-3",
+   "file": "t02-m2-3-rock-and-hand.html",
+   "track": {
+    "id": "bb8-t02",
+    "n": "02",
+    "title": "5-Out Cutters Offense"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Core plays"
+   },
+   "label": "2.3",
+   "title": "Rock and Hand",
+   "desc": "Two ways to get the ball moving when the defense sags or denies the wing.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "bb8-t02-m1-3",
+    "bb8-t02-m2-1"
+   ],
+   "time": "8"
+  },
+  {
+   "id": "bb8-t02-m3-1",
+   "file": "t02-m3-1-drag-away-and-post.html",
+   "track": {
+    "id": "bb8-t02",
+    "n": "02",
+    "title": "5-Out Cutters Offense"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "Later plays and reads"
+   },
+   "label": "3.1",
+   "title": "Drag, Away, and Post",
+   "desc": "Three plays we add once the core is solid. Each one solves a specific problem.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "bb8-t02-m2-1",
+    "bb8-t02-m2-3"
+   ],
+   "time": "9"
+  },
+  {
+   "id": "bb8-t02-m3-2",
+   "file": "t02-m3-2-reading-the-defense.html",
+   "track": {
+    "id": "bb8-t02",
+    "n": "02",
+    "title": "5-Out Cutters Offense"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "Later plays and reads"
+   },
+   "label": "3.2",
+   "title": "Reading the Defense",
+   "desc": "Every play has a read. This is all of them in one place.",
+   "archetype": "decision",
+   "buildsOn": [
+    "bb8-t02-m1-3",
+    "bb8-t02-m2-2",
+    "bb8-t02-m2-3",
+    "bb8-t02-m3-1"
+   ],
+   "time": "9"
+  },
+  {
+   "id": "bb8-t03-m1-1",
+   "file": "t03-m1-1-inbound-rules.html",
+   "track": {
+    "id": "bb8-t03",
+    "n": "03",
+    "title": "Inbounds"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "The rules"
+   },
+   "label": "1.1",
+   "title": "Inbound Rules",
+   "desc": "Three plays, run well. What every inbound has in common.",
+   "archetype": "principles",
+   "buildsOn": [
+    "bb8-t01-m2-1"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "bb8-t03-m2-1",
+   "file": "t03-m2-1-stack-slob.html",
+   "track": {
+    "id": "bb8-t03",
+    "n": "03",
+    "title": "Inbounds"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Our three plays"
+   },
+   "label": "2.1",
+   "title": "Stack (SLOB)",
+   "desc": "Any sideline inbound, front court or back court.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "bb8-t03-m1-1"
+   ],
+   "time": "7"
+  },
+  {
+   "id": "bb8-t03-m2-2",
+   "file": "t03-m2-2-box-1-cross-blob.html",
+   "track": {
+    "id": "bb8-t03",
+    "n": "03",
+    "title": "Inbounds"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Our three plays"
+   },
+   "label": "2.2",
+   "title": "Box 1 = Cross (BLOB)",
+   "desc": "Baseline inbound under our basket. Easy to learn and gets a layup a lot.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "bb8-t03-m1-1"
+   ],
+   "time": "7"
+  },
+  {
+   "id": "bb8-t03-m3-1",
+   "file": "t03-m3-1-box-2-and-the-rotation.html",
+   "track": {
+    "id": "bb8-t03",
+    "n": "03",
+    "title": "Inbounds"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "Mixing them up"
+   },
+   "label": "3.1",
+   "title": "Box 2 and the Rotation",
+   "desc": "Same box as Box 1, so the defense can't tell which one is coming.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "bb8-t03-m2-2"
+   ],
+   "time": "7"
+  },
+  {
+   "id": "bb8-t04-m1-1",
+   "file": "t04-m1-1-league-defense-rules.html",
+   "track": {
+    "id": "bb8-t04",
+    "n": "04",
+    "title": "Defense and Presses"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "The rules"
+   },
+   "label": "1.1",
+   "title": "League Defense Rules",
+   "desc": "What the league allows, and what gets us free throws against.",
+   "archetype": "principles",
+   "buildsOn": [
+    "bb8-t01-m1-1"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "bb8-t04-m1-2",
+   "file": "t04-m1-2-man-to-man-habits.html",
+   "track": {
+    "id": "bb8-t04",
+    "n": "04",
+    "title": "Defense and Presses"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "The rules"
+   },
+   "label": "1.2",
+   "title": "Man-to-Man Habits",
+   "desc": "Seven habits that make our man defense work.",
+   "archetype": "principles",
+   "buildsOn": [
+    "bb8-t04-m1-1",
+    "bb8-t01-m2-2"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "bb8-t04-m2-1",
+   "file": "t04-m2-1-twenty-man-press.html",
+   "track": {
+    "id": "bb8-t04",
+    "n": "04",
+    "title": "Defense and Presses"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Our two presses"
+   },
+   "label": "2.1",
+   "title": "Twenty (Man Press)",
+   "desc": "Our full-court man press. Pick up, deny, pressure, protect the rim.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "bb8-t04-m1-2"
+   ],
+   "time": "7"
+  },
+  {
+   "id": "bb8-t04-m2-2",
+   "file": "t04-m2-2-trap-1-2-1-1-press.html",
+   "track": {
+    "id": "bb8-t04",
+    "n": "04",
+    "title": "Defense and Presses"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Our two presses"
+   },
+   "label": "2.2",
+   "title": "Trap (1-2-1-1 Press)",
+   "desc": "A zone press for a spark. Full court only. Match at half court.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "bb8-t04-m1-1",
+    "bb8-t04-m2-1"
+   ],
+   "time": "7"
+  },
+  {
+   "id": "bb8-t04-m3-1",
+   "file": "t04-m3-1-press-or-man-up.html",
+   "track": {
+    "id": "bb8-t04",
+    "n": "04",
+    "title": "Defense and Presses"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "Decisions"
+   },
+   "label": "3.1",
+   "title": "Press, or Man Up?",
+   "desc": "When we press, which press, and when it stops.",
+   "archetype": "decision",
+   "buildsOn": [
+    "bb8-t04-m2-1",
+    "bb8-t04-m2-2"
+   ],
+   "time": "8"
+  },
+  {
+   "id": "bb8-t04-m3-2",
+   "file": "t04-m3-2-fouling-when-we-re-behind.html",
+   "track": {
+    "id": "bb8-t04",
+    "n": "04",
+    "title": "Defense and Presses"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "Decisions"
+   },
+   "label": "3.2",
+   "title": "Fouling When We're Behind",
+   "desc": "Coach calls it. Never on your own.",
+   "archetype": "decision",
+   "buildsOn": [
+    "bb8-t04-m1-1"
+   ],
+   "time": "5"
+  },
+  {
+   "id": "bb8-t05-m1-1",
+   "file": "t05-m1-1-press-break-rules.html",
+   "track": {
+    "id": "bb8-t05",
+    "n": "05",
+    "title": "Breaking the Press"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "The rules"
+   },
+   "label": "1.1",
+   "title": "Press Break Rules",
+   "desc": "One press break for every full-court press. Five habits that make it work.",
+   "archetype": "principles",
+   "buildsOn": [
+    "bb8-t03-m1-1"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "bb8-t05-m2-1",
+   "file": "t05-m2-1-2-up.html",
+   "track": {
+    "id": "bb8-t05",
+    "n": "05",
+    "title": "Breaking the Press"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Our two breaks"
+   },
+   "label": "2.1",
+   "title": "2-Up",
+   "desc": "Against any full-court press, man or zone. Same jobs every time.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "bb8-t05-m1-1"
+   ],
+   "time": "8"
+  },
+  {
+   "id": "bb8-t05-m2-2",
+   "file": "t05-m2-2-middle.html",
+   "track": {
+    "id": "bb8-t05",
+    "n": "05",
+    "title": "Breaking the Press"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Our two breaks"
+   },
+   "label": "2.2",
+   "title": "Middle",
+   "desc": "When they wait at half court and trap the ball handler as he crosses.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "bb8-t05-m1-1"
+   ],
+   "time": "7"
+  },
+  {
+   "id": "bb8-t05-m3-1",
+   "file": "t05-m3-1-trapped-what-s-the-out.html",
+   "track": {
+    "id": "bb8-t05",
+    "n": "05",
+    "title": "Breaking the Press"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "Reads"
+   },
+   "label": "3.1",
+   "title": "Trapped: What's the Out?",
+   "desc": "Every trap leaves someone open. Know where to look before it happens.",
+   "archetype": "decision",
+   "buildsOn": [
+    "bb8-t05-m2-1",
+    "bb8-t05-m2-2"
+   ],
+   "time": "8"
+  },
+  {
+   "id": "bb8-t06-m1-1",
+   "file": "t06-m1-1-game-rules-that-matter-late.html",
+   "track": {
+    "id": "bb8-t06",
+    "n": "06",
+    "title": "End of Game"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "The rules"
+   },
+   "label": "1.1",
+   "title": "Game Rules That Matter Late",
+   "desc": "Clock, timeouts, and the bonus. Know them cold.",
+   "archetype": "principles",
+   "buildsOn": [
+    "bb8-t01-m2-1"
+   ],
+   "time": "5"
+  },
+  {
+   "id": "bb8-t06-m2-1",
+   "file": "t06-m2-1-delay.html",
+   "track": {
+    "id": "bb8-t06",
+    "n": "06",
+    "title": "End of Game"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Our three plays"
+   },
+   "label": "2.1",
+   "title": "Delay",
+   "desc": "We're ahead in the last 2 minutes. Cutters, spread wide, layups only.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "bb8-t02-m1-2",
+    "bb8-t06-m1-1"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "bb8-t06-m2-2",
+   "file": "t06-m2-2-clock-last-shot.html",
+   "track": {
+    "id": "bb8-t06",
+    "n": "06",
+    "title": "End of Game"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Our three plays"
+   },
+   "label": "2.2",
+   "title": "Clock (Last Shot)",
+   "desc": "Tied or down 1 to 3, 30 seconds or less. We want the last good shot.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "bb8-t02-m2-2",
+    "bb8-t06-m2-1"
+   ],
+   "time": "7"
+  },
+  {
+   "id": "bb8-t06-m2-3",
+   "file": "t06-m2-3-relay.html",
+   "track": {
+    "id": "bb8-t06",
+    "n": "06",
+    "title": "End of Game"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Our three plays"
+   },
+   "label": "2.3",
+   "title": "Relay",
+   "desc": "Full court with 8 to 12 seconds left. They just scored or the ball is under their basket.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "bb8-t03-m1-1",
+    "bb8-t06-m1-1"
+   ],
+   "time": "7"
+  },
+  {
+   "id": "bb8-t06-m3-1",
+   "file": "t06-m3-1-which-call.html",
+   "track": {
+    "id": "bb8-t06",
+    "n": "06",
+    "title": "End of Game"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "Which call"
+   },
+   "label": "3.1",
+   "title": "Which Call?",
+   "desc": "Score, clock, and who has the ball. Coach calls it; you should already know.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "bb8-t06-m2-1",
+    "bb8-t06-m2-2",
+    "bb8-t06-m2-3",
+    "bb8-t04-m3-2"
+   ],
+   "time": "9"
+  }
+ ]
+}
