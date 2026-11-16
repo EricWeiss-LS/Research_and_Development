@@ -1,0 +1,695 @@
+{
+ "schema": "classroom-pages/1",
+ "classroom": "Motion Offense and No Middle Defense",
+ "accent": "#4D7CFF",
+ "pages": [
+  {
+   "id": "tp_wfso0kq2k",
+   "file": "t01-m1-1-motion-offense-goals.html",
+   "track": {
+    "id": "trk_hmtm1jq2k",
+    "n": "01",
+    "title": "Motion Offense: Entry & Initial Action"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "What we want and where we go"
+   },
+   "label": "1.1",
+   "title": "Motion Offense Goals",
+   "desc": "Layup or open three, move the ball, read and cut hard, always have an outlet.",
+   "archetype": "principles",
+   "buildsOn": [],
+   "time": "5"
+  },
+  {
+   "id": "tp_2qncfhq2k",
+   "file": "t01-m1-2-transitioning-into-spots.html",
+   "track": {
+    "id": "trk_hmtm1jq2k",
+    "n": "01",
+    "title": "Motion Offense: Entry & Initial Action"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "What we want and where we go"
+   },
+   "label": "1.2",
+   "title": "Transitioning into Spots",
+   "desc": "1 catches at FT line extended, 2 and 3 race to the corners, 4 inbounds and trails, 5 races to the rim.",
+   "archetype": "roles",
+   "buildsOn": [],
+   "time": "5"
+  },
+  {
+   "id": "tp_2h9yurq2k",
+   "file": "t01-m2-1-initiating-offense-1-4-pick-and-pop.html",
+   "track": {
+    "id": "trk_hmtm1jq2k",
+    "n": "01",
+    "title": "Motion Offense: Entry & Initial Action"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "How we run it"
+   },
+   "label": "2.1",
+   "title": "Initiating Offense: 1 & 4 Pick and Pop",
+   "desc": "The offense starts when 4 catches the ball. Screen and rescreen, 5 slides opposite, 2 and 3 spot up.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "tp_wfso0kq2k"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "tp_xixbzqq2k",
+   "file": "t01-m2-2-violent-cuts-butt-screen-sprint-screen.html",
+   "track": {
+    "id": "trk_hmtm1jq2k",
+    "n": "01",
+    "title": "Motion Offense: Entry & Initial Action"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "How we run it"
+   },
+   "label": "2.2",
+   "title": "Violent Cuts: Butt Screen, Sprint Screen",
+   "desc": "4 hits the sprinting wing, 3 SPRINTS around the butt screen, 4 SPRINTS into his screen.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "tp_wfso0kq2k"
+   ],
+   "time": "8"
+  },
+  {
+   "id": "tp_kuughdq2k",
+   "file": "t01-m3-1-scoring-reads.html",
+   "track": {
+    "id": "trk_hmtm1jq2k",
+    "n": "01",
+    "title": "Motion Offense: Entry & Initial Action"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "Reads under pressure"
+   },
+   "label": "3.1",
+   "title": "Scoring Reads",
+   "desc": "Rim-cutting wing, popping 1, or short roll face up. 1 pops behind the screen and never sets his feet.",
+   "archetype": "decision",
+   "buildsOn": [
+    "tp_2h9yurq2k"
+   ],
+   "time": "8"
+  },
+  {
+   "id": "tp_qxsfnnq2k",
+   "file": "t01-m3-2-pick-roll-replace.html",
+   "track": {
+    "id": "trk_hmtm1jq2k",
+    "n": "01",
+    "title": "Motion Offense: Entry & Initial Action"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "Reads under pressure"
+   },
+   "label": "3.2",
+   "title": "Pick, Roll, Replace",
+   "desc": "1 must get middle, 3 replaces early, 4 rolls correctly. 1 can play with his food before he eats.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "tp_2h9yurq2k"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "tp_z7uz35q2k",
+   "file": "t02-m1-1-breakdown-rules.html",
+   "track": {
+    "id": "trk_wzvlikq2k",
+    "n": "02",
+    "title": "Motion Offense: When the Initial Action Breaks Down"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "Play basketball"
+   },
+   "label": "1.1",
+   "title": "Breakdown Rules",
+   "desc": "Don't try to regain the pattern. Pass and screen away, don't over dribble, don't pass and stand.",
+   "archetype": "principles",
+   "buildsOn": [],
+   "time": "6"
+  },
+  {
+   "id": "tp_ed4a7bq2k",
+   "file": "t02-m2-1-staggered-away-screens.html",
+   "track": {
+    "id": "trk_wzvlikq2k",
+    "n": "02",
+    "title": "Motion Offense: When the Initial Action Breaks Down"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Our go-to actions"
+   },
+   "label": "2.1",
+   "title": "Staggered Away Screens",
+   "desc": "Stagger whenever possible. On post hits, the passer and the next closest teammate stagger away, Davidson Wildcats style.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "tp_z7uz35q2k"
+   ],
+   "time": "7"
+  },
+  {
+   "id": "tp_l20hgfq2k",
+   "file": "t02-m2-2-back-screen-our-4-into-the-post.html",
+   "track": {
+    "id": "trk_wzvlikq2k",
+    "n": "02",
+    "title": "Motion Offense: When the Initial Action Breaks Down"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Our go-to actions"
+   },
+   "label": "2.2",
+   "title": "Back Screen Our 4 into the Post",
+   "desc": "Look for chances to back screen the 4 into the post.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "tp_z7uz35q2k"
+   ],
+   "time": "4"
+  },
+  {
+   "id": "tp_il1pkqq2k",
+   "file": "t02-m3-1-pressure-dhos-and-the-glass.html",
+   "track": {
+    "id": "trk_wzvlikq2k",
+    "n": "02",
+    "title": "Motion Offense: When the Initial Action Breaks Down"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "Pressure and shots"
+   },
+   "label": "3.1",
+   "title": "Pressure, DHOs and the Glass",
+   "desc": "When you're pressured, seek a DHO. On shots, 3, 4 and 5 crash while 1 and 2 get back.",
+   "archetype": "decision",
+   "buildsOn": [
+    "tp_ed4a7bq2k"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "tp_9cwj4jq2k",
+   "file": "t03-m1-1-the-5-man-to-man-rules.html",
+   "track": {
+    "id": "trk_qeg3tfq2k",
+    "n": "03",
+    "title": "No Middle Man-to-Man: Rules & Positioning"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "The rules and the language"
+   },
+   "label": "1.1",
+   "title": "The 5 Man-to-Man Rules",
+   "desc": "No middle penetration, no ball reversals, no help one pass away, no face cuts, move when the ball moves.",
+   "archetype": "principles",
+   "buildsOn": [],
+   "time": "6"
+  },
+  {
+   "id": "tp_y2vgkqq2k",
+   "file": "t03-m1-2-defense-dictionary.html",
+   "track": {
+    "id": "trk_qeg3tfq2k",
+    "n": "03",
+    "title": "No Middle Man-to-Man: Rules & Positioning"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "The rules and the language"
+   },
+   "label": "1.2",
+   "title": "Defense Dictionary",
+   "desc": "On-ball, deny, help, ball-you-man, split line, High-I, Low-I, stunt, jump to the ball, banana closeout.",
+   "archetype": "dictionary",
+   "buildsOn": [],
+   "time": "5"
+  },
+  {
+   "id": "tp_ie209rq2k",
+   "file": "t03-m2-1-on-ball-deny-and-help-defense.html",
+   "track": {
+    "id": "trk_qeg3tfq2k",
+    "n": "03",
+    "title": "No Middle Man-to-Man: Rules & Positioning"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Our jobs on every possession"
+   },
+   "label": "2.1",
+   "title": "On-Ball, Deny and Help Defense",
+   "desc": "Contain and overplay the middle, one hand and foot in the lane when one pass away, ball-you-man when two away.",
+   "archetype": "roles",
+   "buildsOn": [
+    "tp_9cwj4jq2k"
+   ],
+   "time": "8"
+  },
+  {
+   "id": "tp_gfsu4eq2k",
+   "file": "t03-m2-2-positions-by-ball-location-top-wing-corner.html",
+   "track": {
+    "id": "trk_qeg3tfq2k",
+    "n": "03",
+    "title": "No Middle Man-to-Man: Rules & Positioning"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Our jobs on every possession"
+   },
+   "label": "2.2",
+   "title": "Positions by Ball Location: Top, Wing, Corner",
+   "desc": "Get it out of the top, never let it reverse, and keep two help defenders on the split line.",
+   "archetype": "roles",
+   "buildsOn": [
+    "tp_9cwj4jq2k"
+   ],
+   "time": "8"
+  },
+  {
+   "id": "tp_kj0b1pq2k",
+   "file": "t03-m3-1-top-to-wing-pass-allow-or-deny.html",
+   "track": {
+    "id": "trk_qeg3tfq2k",
+    "n": "03",
+    "title": "No Middle Man-to-Man: Rules & Positioning"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "Coach's choices"
+   },
+   "label": "3.1",
+   "title": "Top to Wing Pass: Allow or Deny?",
+   "desc": "We allow the pass to commit the ball to one side. Know when denying it disrupts their offense.",
+   "archetype": "decision",
+   "buildsOn": [
+    "tp_ie209rq2k"
+   ],
+   "time": "7"
+  },
+  {
+   "id": "tp_hi2sbvq2k",
+   "file": "t04-m1-1-help-always-comes-from-the-weak-side.html",
+   "track": {
+    "id": "trk_yrdsnpq2k",
+    "n": "04",
+    "title": "No Middle Man-to-Man: Dribble Penetration & Rotations"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "Where help comes from"
+   },
+   "label": "1.1",
+   "title": "Help Always Comes from the Weak Side",
+   "desc": "High-I and Low-I on the split line. The lowest weak-side defender steps across, and one pass away only stunts.",
+   "archetype": "principles",
+   "buildsOn": [],
+   "time": "6"
+  },
+  {
+   "id": "tp_vy99k8q2k",
+   "file": "t04-m2-1-top-of-the-key-drive-wing-baseline-drive.html",
+   "track": {
+    "id": "trk_yrdsnpq2k",
+    "n": "04",
+    "title": "No Middle Man-to-Man: Dribble Penetration & Rotations"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Rotations we drill every practice"
+   },
+   "label": "2.1",
+   "title": "Top of the Key Drive & Wing Baseline Drive",
+   "desc": "Low-I meets the driver outside the paint, High-I rotates down, the top defender drops to intercept.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "tp_hi2sbvq2k"
+   ],
+   "time": "8"
+  },
+  {
+   "id": "tp_ir2twjq2k",
+   "file": "t04-m2-2-corner-baseline-drive.html",
+   "track": {
+    "id": "trk_yrdsnpq2k",
+    "n": "04",
+    "title": "No Middle Man-to-Man: Dribble Penetration & Rotations"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Rotations we drill every practice"
+   },
+   "label": "2.2",
+   "title": "Corner Baseline Drive",
+   "desc": "Deny the reverse pass, Low-I traps with x4, x3 drops, x1 splits two and closes on the skip.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "tp_hi2sbvq2k"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "tp_naqj29q2k",
+   "file": "t04-m3-1-wing-middle-drive.html",
+   "track": {
+    "id": "trk_yrdsnpq2k",
+    "n": "04",
+    "title": "No Middle Man-to-Man: Dribble Penetration & Rotations"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "When it gets messy"
+   },
+   "label": "3.1",
+   "title": "Wing Middle Drive",
+   "desc": "Slide vertically and cut it off or force it to the top. If it's inevitable, the lowest weak-side player steps across.",
+   "archetype": "decision",
+   "buildsOn": [
+    "tp_vy99k8q2k"
+   ],
+   "time": "8"
+  },
+  {
+   "id": "tp_ig44axq2k",
+   "file": "t04-m3-2-drives-with-a-low-or-high-post-defender.html",
+   "track": {
+    "id": "trk_yrdsnpq2k",
+    "n": "04",
+    "title": "No Middle Man-to-Man: Dribble Penetration & Rotations"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "When it gets messy"
+   },
+   "label": "3.2",
+   "title": "Drives with a Low or High Post Defender",
+   "desc": "The post defender traps from the 1/2 front, or denies the high post and doesn't help. Rotations shift behind them.",
+   "archetype": "decision",
+   "buildsOn": [
+    "tp_vy99k8q2k"
+   ],
+   "time": "8"
+  },
+  {
+   "id": "tp_kp32esq2k",
+   "file": "t04-m3-3-skip-pass-rotations.html",
+   "track": {
+    "id": "trk_yrdsnpq2k",
+    "n": "04",
+    "title": "No Middle Man-to-Man: Dribble Penetration & Rotations"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "When it gets messy"
+   },
+   "label": "3.3",
+   "title": "Skip Pass Rotations",
+   "desc": "Banana-cut closeouts so there's no middle. Everyone sprints on the flight of the ball.",
+   "archetype": "decision",
+   "buildsOn": [
+    "tp_vy99k8q2k"
+   ],
+   "time": "5"
+  },
+  {
+   "id": "tp_9rgqqwq2k",
+   "file": "t05-m1-1-no-middle-control-the-middle-third.html",
+   "track": {
+    "id": "trk_87ozvrq2k",
+    "n": "05",
+    "title": "No Middle: Spartan Defensive System"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "The seven pillars"
+   },
+   "label": "1.1",
+   "title": "No Middle: Control the Middle-Third",
+   "desc": "Full court pressure, push dribblers to the sidelines, and the opposing PG can't dribble through the jump circle.",
+   "archetype": "principles",
+   "buildsOn": [],
+   "time": "5"
+  },
+  {
+   "id": "tp_8yzrunq2k",
+   "file": "t05-m2-1-elite-closeouts-deny-lane-penetration.html",
+   "track": {
+    "id": "trk_87ozvrq2k",
+    "n": "05",
+    "title": "No Middle: Spartan Defensive System"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "How Spartans defend"
+   },
+   "label": "2.1",
+   "title": "Elite Closeouts & Deny Lane Penetration",
+   "desc": "High active hands, choppy feet, attack the high hip. Get in his pocket, voice pressure, force to short corners.",
+   "archetype": "principles",
+   "buildsOn": [
+    "tp_9rgqqwq2k"
+   ],
+   "time": "7"
+  },
+  {
+   "id": "tp_z3d5rpq2k",
+   "file": "t05-m2-2-pack-gaps.html",
+   "track": {
+    "id": "trk_87ozvrq2k",
+    "n": "05",
+    "title": "No Middle: Spartan Defensive System"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "How Spartans defend"
+   },
+   "label": "2.2",
+   "title": "Pack Gaps",
+   "desc": "Jump to ball, stunt and recover, 2 passes away = midline, melt to the ball on baseline penetration.",
+   "archetype": "roles",
+   "buildsOn": [
+    "tp_9rgqqwq2k"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "tp_5cy6leq2k",
+   "file": "t05-m3-1-ice-ball-screens.html",
+   "track": {
+    "id": "trk_87ozvrq2k",
+    "n": "05",
+    "title": "No Middle: Spartan Defensive System"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "Win the possession"
+   },
+   "label": "3.1",
+   "title": "Ice Ball Screens",
+   "desc": "The on-ball defender makes the dribbler reject and go baseline, bigs drop, and we trap 1-2 steps outside the lane.",
+   "archetype": "decision",
+   "buildsOn": [
+    "tp_8yzrunq2k"
+   ],
+   "time": "7"
+  },
+  {
+   "id": "tp_hyv2nqq2k",
+   "file": "t05-m3-2-rebound-get-turkeys.html",
+   "track": {
+    "id": "trk_87ozvrq2k",
+    "n": "05",
+    "title": "No Middle: Spartan Defensive System"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "Win the possession"
+   },
+   "label": "3.2",
+   "title": "Rebound! & Get Turkeys",
+   "desc": "Ultimate physicality, two hands, 10 Spartan hands on every rebound. 3 consecutive stops = turkey, 7 per game.",
+   "archetype": "decision",
+   "buildsOn": [
+    "tp_8yzrunq2k"
+   ],
+   "time": "5"
+  },
+  {
+   "id": "tp_k2urenq2k",
+   "file": "t06-m1-1-keeping-the-ball-out-of-the-post.html",
+   "track": {
+    "id": "trk_kr95k9q2k",
+    "n": "06",
+    "title": "Man-to-Man: Post, Transition, Inbounds & Pick and Roll"
+   },
+   "module": {
+    "n": 1,
+    "name": "Foundation",
+    "sub": "Don't let it get there"
+   },
+   "label": "1.1",
+   "title": "Keeping the Ball Out of the Post",
+   "desc": "Beat them down the floor, great on-ball defense, push them off the block.",
+   "archetype": "principles",
+   "buildsOn": [],
+   "time": "5"
+  },
+  {
+   "id": "tp_c1itumq2k",
+   "file": "t06-m2-1-post-denial-3-4-front-and-1-2-front.html",
+   "track": {
+    "id": "trk_kr95k9q2k",
+    "n": "06",
+    "title": "Man-to-Man: Post, Transition, Inbounds & Pick and Roll"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Our positioning"
+   },
+   "label": "2.1",
+   "title": "Post Denial: 3/4 Front and 1/2 Front",
+   "desc": "Above the free-throw line we 3/4 front. Below it we 1/2 front from the baseline side.",
+   "archetype": "roles",
+   "buildsOn": [
+    "tp_k2urenq2k"
+   ],
+   "time": "7"
+  },
+  {
+   "id": "tp_nk7nhwq2k",
+   "file": "t06-m2-2-transition-defense-three-crash-two-back.html",
+   "track": {
+    "id": "trk_kr95k9q2k",
+    "n": "06",
+    "title": "Man-to-Man: Post, Transition, Inbounds & Pick and Roll"
+   },
+   "module": {
+    "n": 2,
+    "name": "Core",
+    "sub": "Our positioning"
+   },
+   "label": "2.2",
+   "title": "Transition Defense: Three Crash, Two Back",
+   "desc": "Never stand in no man's land. Two get back as a top defender and a bottom defender.",
+   "archetype": "roles",
+   "buildsOn": [
+    "tp_k2urenq2k"
+   ],
+   "time": "6"
+  },
+  {
+   "id": "tp_wml1qwq2k",
+   "file": "t06-m3-1-trapping-a-dominant-low-post-player.html",
+   "track": {
+    "id": "trk_kr95k9q2k",
+    "n": "06",
+    "title": "Man-to-Man: Post, Transition, Inbounds & Pick and Roll"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "Special situations"
+   },
+   "label": "3.1",
+   "title": "Trapping a Dominant Low Post Player",
+   "desc": "Low-I traps high side, x2 drops, x1 becomes the interceptor, ball-side stays in complete denial.",
+   "archetype": "playbook",
+   "buildsOn": [
+    "tp_c1itumq2k"
+   ],
+   "time": "8"
+  },
+  {
+   "id": "tp_zh3xk6q2k",
+   "file": "t06-m3-2-defending-blobs.html",
+   "track": {
+    "id": "trk_kr95k9q2k",
+    "n": "06",
+    "title": "Man-to-Man: Post, Transition, Inbounds & Pick and Roll"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "Special situations"
+   },
+   "label": "3.2",
+   "title": "Defending BLOBs",
+   "desc": "Make them throw it to the top. Defender near the rim, switch everything, or flash a 2-3 zone.",
+   "archetype": "decision",
+   "buildsOn": [
+    "tp_c1itumq2k"
+   ],
+   "time": "8"
+  },
+  {
+   "id": "tp_xh5lneq2k",
+   "file": "t06-m3-3-defending-the-pick-and-roll.html",
+   "track": {
+    "id": "trk_kr95k9q2k",
+    "n": "06",
+    "title": "Man-to-Man: Post, Transition, Inbounds & Pick and Roll"
+   },
+   "module": {
+    "n": 3,
+    "name": "Applied",
+    "sub": "Special situations"
+   },
+   "label": "3.3",
+   "title": "Defending the Pick and Roll",
+   "desc": "Hedge and fight over, switch, or go under: know the choice and the cost.",
+   "archetype": "decision",
+   "buildsOn": [
+    "tp_c1itumq2k"
+   ],
+   "time": "8"
+  }
+ ]
+}
